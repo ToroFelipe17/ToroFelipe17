@@ -16,7 +16,7 @@
 ---
 
 ## 📂 Proyectos académicos  
-🔹 **[Gestión de Recursos]([https://github.com/ToroFelipe17/Gesti-n-de-Recursos])**  
+🔹 **[Gestión de Recursos](https://github.com/ToroFelipe17/Gesti-n-de-Recursos)**  
 CRUD con PHP y MySQL, incluyendo autenticación de usuarios.  
 
 🔹 **[Gestión de Libros](https://github.com/tuusuario/gestion-libros)**  
