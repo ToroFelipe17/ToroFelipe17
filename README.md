@@ -5,7 +5,8 @@
 💡 Apasionado por la tecnología, el desarrollo de software y la optimización de sistemas. Actualmente, estoy especializándome en desarrollo web y bases de datos.
 
 📍 **Ubicación:** Santiago, Chile  
-📧 **Correo:** felipetorobustamante@gmail.com  
+📧 **Correo:** felipetorobustamante@gmail.com 
+🌐 **LinkedIn:** https://www.linkedin.com/in/felipe-israel-toro-bustamante-236b95358/
 
 ---
 
