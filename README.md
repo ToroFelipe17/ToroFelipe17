@@ -1,6 +1,8 @@
 # 👋 ¡Hola! Soy Felipe Toro  
 
-💻 **Estudiante de Ingeniería Informática** en la Universidad Autónoma, apasionado por el desarrollo web, backend y testing. Busco aprender y crecer en el mundo de la tecnología mientras estudio.  
+💻 **Estudiante de Ingeniería Informática | Desarrollador Web Junior | Backend | QA Tester** en la Universidad Autónoma. Busco aprender y crecer mientras estudio.  
+
+💡 Apasionado por la tecnología, el desarrollo de software y la optimización de sistemas. Actualmente, estoy especializándome en desarrollo web y bases de datos.
 
 📍 **Ubicación:** Santiago, Chile  
 📧 **Correo:** felipetorobustamante@gmail.com  
@@ -9,9 +11,10 @@
 
 ## 🚀 Tecnologías que manejo  
 ✅ **Lenguajes:** Java, PHP, JavaScript, SQL  
-✅ **Frontend:** HTML, CSS  
-✅ **Backend:** PHP, MySQL  
-✅ **Herramientas:** Visual Studio Code, MySQL Workbench, XAMPP, Git  
+✅ **Frontend:** HTML, CSS, Bootstrap 
+✅ **Backend:** PHP con MySQL  
+✅ **Herramientas:** Visual Studio Code, MySQL Workbench, XAMPP, Git 
+✅ **Metodologías:** Lean, Agile, Testing de Software  
 
 ---
 
@@ -20,13 +23,7 @@
 CRUD con PHP y MySQL, incluyendo autenticación de usuarios.  
 
 🔹 **[Gestión de Libros](https://github.com/ToroFelipe17/Gesti-n-de-libros)**  
-Aplicación para administrar una biblioteca con operaciones CRUD.  
-
----
-
-## 📌 Experiencia laboral  
-🛠 **Supervisor de obras** (2021 - 2024) en Bizama y Torbus.  
-☕ **Garzón** en la cafetería Ppooly durante los veranos (16-18 años).  
+Aplicación para administrar una biblioteca con operaciones CRUD.   
 
 ---
 
