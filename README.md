@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Felipe Toro  
 
-💻 **Estudiante de Ingeniería Informática | Desarrollador Web Junior | Backend | QA Tester** en la Universidad Autónoma. Busco aprender y crecer mientras estudio.  
+💻 **Estudiante de Ingeniería Informática | Desarrollador Web Junior | Backend | QA Tester** de la Universidad Autónoma. Busco aprender y crecer mientras estudio.  
 
 💡 Apasionado por la tecnología, el desarrollo de software y la optimización de sistemas. Actualmente, estoy especializándome en desarrollo web y bases de datos.
 
@@ -10,10 +10,15 @@
 ---
 
 ## 🚀 Tecnologías que manejo  
+
 ✅ **Lenguajes:** Java, PHP, JavaScript, SQL  
+
 ✅ **Frontend:** HTML, CSS, Bootstrap 
+
 ✅ **Backend:** PHP con MySQL  
+
 ✅ **Herramientas:** Visual Studio Code, MySQL Workbench, XAMPP, Git 
+
 ✅ **Metodologías:** Lean, Agile, Testing de Software  
 
 ---
