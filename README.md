@@ -32,7 +32,7 @@ Aplicación para administrar una biblioteca con operaciones CRUD.
 
 ## 📈 Educación  
 🎓 **Ingeniería Informática** (2023 - actualidad) - Universidad Autónoma  
-🏗 **Ingeniería en Obras Civiles** (2020 - 2022) - Universidad Metropolitana (UTEM)  
+🏗 **Ingeniería civil en Obras Civiles** (2020 - 2022) - Universidad Metropolitana (UTEM)  
 
 ---
 
