@@ -14,7 +14,7 @@
 
 ## 🚀 Tecnologías que manejo  
 
-✅ **Lenguajes:** Java, PHP, JavaScript, SQL  
+✅ **Lenguajes:** Python, Java, PHP, JavaScript, SQL  
 
 ✅ **Frontend:** HTML, CSS, Bootstrap 
 
