@@ -3,8 +3,7 @@
 
 > [![Location](https://img.shields.io/badge/Padre%20Hurtado%2C%20Santiago%20de%20Chile-555?style=flat&logo=google-maps&logoColor=white)](#)  
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="16"/> [felipetorobustamante@gmail.com](mailto:felipetorobustamante@gmail.com)  
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16"/> [LinkedIn](https://www.linkedin.com/in/felipe-israel-toro-bustamante-236b95358/)
-
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16"/> [LinkedIn](https://www.linkedin.com/in/felipe-israel-toro-bustamante-236b95358/)                           
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="16"/> [GitHub](https://github.com/ToroFelipe17)  
 
 ---
