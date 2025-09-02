@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Felipe Toro  
+# Hola! Soy Felipe Toro  
 
 💻 **Estudiante de Ingeniería Informática | Desarrollador Web Junior | Backend | QA Tester** de la Universidad Autónoma. Busco aprender y crecer mientras estudio.  
 
