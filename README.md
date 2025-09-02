@@ -1,9 +1,10 @@
 # Felipe Toro
 ### Ingeniero Informático en formación | Web Developer | Backend & QA | Emprendedor Tech ®️  
 
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="16"/> Santiago, Chile  
+> [![Location](https://img.shields.io/badge/Padre%20Hurtado%2C%20Santiago%20de%20Chile-555?style=flat&logo=google-maps&logoColor=white)](#)  
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="16"/> [felipetorobustamante@gmail.com](mailto:felipetorobustamante@gmail.com)  
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16"/> [LinkedIn](https://www.linkedin.com/in/felipe-israel-toro-bustamante-236b95358/)  
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16"/> [LinkedIn](https://www.linkedin.com/in/felipe-israel-toro-bustamante-236b95358/)
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="16"/> [GitHub](https://github.com/ToroFelipe17)  
 
 ---
 
@@ -31,21 +32,21 @@ Me considero un **constructor de soluciones**, no solo de software. Mi meta es t
 
 ## Proyectos Destacados  
 
-### 🔹 [InfinityClouds](https://github.com/ToroFelipe17) *(en desarrollo)*  
+### ➜ [InfinityClouds](https://github.com/ToroFelipe17) *(en desarrollo)*  
 E-commerce de **vaporizadores y e-liquids** con un enfoque **Apple-like en experiencia visual**.  
 - **Stack**: React + TailwindCSS + WooCommerce  
 - **Objetivo**: Escalar como startup rentable para financiar proyectos de innovación.  
 
 ---
 
-### 🔹 [LuxFurty](https://github.com/ToroFelipe17) *(fase prototipo)*  
+### ➜ [LuxFurty](https://github.com/ToroFelipe17) *(fase prototipo)*  
 Plataforma digital basada en **3D, IA y procesamiento de imágenes**.  
 - **Enfoque**: Construcción de avatares, interacción en entornos digitales y escalabilidad cloud.  
 - **Visión**: Proyecto global con ambición de disrupción tecnológica.  
 
 ---
 
-### 🔹 [Gestión de Recursos UAutónoma](https://github.com/ToroFelipe17/gestion-recursos)  
+### ➜ [Gestión de Recursos UAutónoma](https://github.com/ToroFelipe17/gestion-recursos)  
 Aplicación web para **administración de usuarios y recursos** en contextos educativos.  
 - CRUD completo, autenticación, reportes (PDF/CSV).  
 - Validaciones regionales (RUT, CLP).  
@@ -53,7 +54,7 @@ Aplicación web para **administración de usuarios y recursos** en contextos edu
 
 ---
 
-### 🔹 [Gestión-S12](https://github.com/ToroFelipe17/gestion-s12)
+### ➜ [Gestión-S12](https://github.com/ToroFelipe17/gestion-s12)
 Aplicación front-end de **gestión de tareas** (Evaluación S12) construida con **Angular 20**, **TypeScript** y **CSS3**, con **persistencia en localStorage**.
 
 - **Stack**: Angular 20 (CLI), TypeScript, CSS3, localStorage API  
@@ -63,7 +64,7 @@ Aplicación front-end de **gestión de tareas** (Evaluación S12) construida con
 
 ---
 
-### 🔹 [Biblioteca_IngUA](https://github.com/ToroFelipe17/biblioteca_ingua)  
+### ➜ [Biblioteca_IngUA](https://github.com/ToroFelipe17/biblioteca_ingua)  
 Sistema CRUD para la **gestión de libros**.  
 - PHP + MySQL + Bootstrap.  
 - Base para prácticas de testing y QA.  
