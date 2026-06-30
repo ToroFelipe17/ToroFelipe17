@@ -5,7 +5,7 @@
 <h1 align="center">Felipe Toro</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍%20Padre%20Hurtado%2C%20Santiago%2C%20Chile-20232A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ubicación" />
+  <img src="https://img.shields.io/badge/Padre%20Hurtado%2C%20Santiago%2C%20Chile-20232A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ubicación" />
   <br><br>
   <a href="mailto:felipetorobustamante@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
