@@ -254,7 +254,7 @@ Estoy comenzando a documentar de forma más consistente mi trabajo en Python, da
 
 ---
 
-## Contacto
+<h1 align="center">## Contacto
 
 <p align="center">
   <a href="mailto:felipetorobustamante@gmail.com">
