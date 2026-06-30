@@ -5,10 +5,6 @@
 <h1 align="center">Felipe Toro</h1>
 
 <p align="center">
-  Full Stack & Backend Developer en formación · Producto · Datos · IA aplicada · Ingeniería Informática
-</p>
-
-<p align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/Padre%20Hurtado%2C%20Santiago%20de%20Chile-555?style=flat&logo=google-maps&logoColor=white" alt="Ubicación" />
   </a>
@@ -31,7 +27,7 @@ Soy estudiante de Ingeniería Informática y me estoy formando como desarrollado
 
 Me interesa construir sistemas que no solo funcionen técnicamente, sino que también tengan sentido para el negocio, resuelvan problemas reales y puedan escalar con una base sólida. Mi perfil combina desarrollo de software, pensamiento analítico, visión de producto y aprendizaje constante en áreas como Big Data, Machine Learning y arquitectura de sistemas.
 
-Actualmente estoy fortaleciendo mi stack técnico con React, TypeScript, Python, Supabase, SQL y herramientas modernas de desarrollo, mientras desarrollo proyectos propios y académicos orientados a software real, documentación técnica y mejora continua.
+Actualmente estoy fortaleciendo mi stack técnico con React, TypeScript, Python, Supabase, SQL y herramientas modernas de desarrollo. Mi foco está en construir proyectos propios y académicos que tengan estructura, documentación y sentido real, no solo código funcionando.
 
 ---
 
@@ -227,21 +223,40 @@ Mi objetivo es avanzar hacia roles donde pueda conectar software, datos, IA apli
 
 ## Actividad en GitHub
 
-Las estadísticas reflejan principalmente actividad pública en GitHub. No representan todo mi aprendizaje técnico, especialmente en áreas que estoy comenzando a documentar de forma más estructurada, como Python, datos y Machine Learning.
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ToroFelipe17&show_icons=true&hide_border=true&theme=transparent&title_color=FF3131&icon_color=FF3131&text_color=C9D1D9&rank_icon=github&include_all_commits=true&custom_title=Felipe%20Toro%20GitHub%20Stats" alt="Felipe Toro GitHub Stats" />
+  <img src="https://img.shields.io/badge/Estado-STILL%20BUILDING-FF3131?style=for-the-badge&logo=github&logoColor=white" alt="Still Building" />
+  <img src="https://img.shields.io/badge/Foco-Software%20%2B%20Datos%20%2B%20IA-111827?style=for-the-badge" alt="Software Datos IA" />
+  <img src="https://img.shields.io/badge/Perfil-En%20evoluci%C3%B3n-555?style=for-the-badge" alt="Perfil en evolución" />
 </p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToroFelipe17&layout=compact&hide_border=true&theme=transparent&title_color=FF3131&text_color=C9D1D9&langs_count=8&custom_title=Lenguajes%20m%C3%A1s%20usados%20en%20repositorios%20p%C3%BAblicos" alt="Lenguajes más usados en repositorios públicos" />
-</p>
+Mi GitHub está en proceso de evolución: actualmente lo estoy ordenando como una vitrina técnica real, priorizando proyectos con documentación, estructura y propósito claro.
+
+Estoy comenzando a documentar de forma más consistente mi trabajo en Python, datos y Machine Learning, ya que parte importante de mi aprendizaje ha ocurrido fuera de repositorios públicos.
+
+<table>
+  <tr>
+    <td><strong>Foco actual</strong></td>
+    <td>Full Stack, Backend, producto, datos e IA aplicada.</td>
+  </tr>
+  <tr>
+    <td><strong>Proyecto principal</strong></td>
+    <td>KUTT OPS como sistema real orientado a gestión, operación y producto.</td>
+  </tr>
+  <tr>
+    <td><strong>Próximo paso</strong></td>
+    <td>Crear un repositorio dedicado a Python, análisis de datos, Machine Learning y Big Data.</td>
+  </tr>
+  <tr>
+    <td><strong>Objetivo</strong></td>
+    <td>Construir una base pública más sólida, ordenada y alineada a mi dirección profesional.</td>
+  </tr>
+</table>
 
 ---
 
 ## Contacto
 
-<p>
+<p align="center">
   <a href="mailto:felipetorobustamante@gmail.com">
     <img src="https://img.shields.io/badge/Email-felipetorobustamante%40gmail.com-555?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
