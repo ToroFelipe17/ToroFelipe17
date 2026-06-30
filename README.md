@@ -1,91 +1,254 @@
-# Felipe Toro
-### Ingeniero Informático en formación | Web Developer | Backend & QA | Emprendedor Tech ®️  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+%26+Backend+Developer+en+formaci%C3%B3n;Producto%2C+Datos+e+IA+aplicada;Construyendo+software+con+visi%C3%B3n+t%C3%A9cnica+y+de+negocio" alt="Typing SVG" />
+</p>
 
-> [![Location](https://img.shields.io/badge/Padre%20Hurtado%2C%20Santiago%20de%20Chile-555?style=flat&logo=google-maps&logoColor=white)](#)  
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="16"/> [felipetorobustamante@gmail.com](mailto:felipetorobustamante@gmail.com)  
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16"/> [LinkedIn](https://www.linkedin.com/in/felipe-israel-toro-bustamante-236b95358/)                           
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="16"/> [GitHub](https://github.com/ToroFelipe17)  
+<h1 align="center">Felipe Toro</h1>
 
----
+<p align="center">
+  Full Stack & Backend Developer en formación · Producto · Datos · IA aplicada · Ingeniería Informática
+</p>
 
-## Sobre mí  
-Soy **Felipe Toro**, estudiante de Ingeniería Informática en la **Universidad Autónoma de Chile**, con un enfoque decidido en el **desarrollo web, backend y testing profesional**.  
-No me limito a lo académico: estoy construyendo **proyectos reales con visión empresarial**, fusionando **tecnología + negocios**, tal como lo haría un arquitecto de productos digitales a escala global.  
-
-Me considero un **constructor de soluciones**, no solo de software. Mi meta es transformar ideas en sistemas que funcionen, escalen y generen impacto.  
-
----
-
-## Tecnologías  
-<a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
-<a><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
-<a><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Padre%20Hurtado%2C%20Santiago%20de%20Chile-555?style=flat&logo=google-maps&logoColor=white" alt="Ubicación" />
+  </a>
+  <a href="mailto:felipetorobustamante@gmail.com">
+    <img src="https://img.shields.io/badge/Email-felipetorobustamante%40gmail.com-555?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/felipe-israel-toro-bustamante-236b95358/">
+    <img src="https://img.shields.io/badge/LinkedIn-Felipe%20Toro-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/ToroFelipe17">
+    <img src="https://img.shields.io/badge/GitHub-ToroFelipe17-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-## Proyectos Destacados  
+## Sobre mí
 
-### ➜ [InfinityClouds](https://github.com/ToroFelipe17) *(en desarrollo)*  
-E-commerce de **vaporizadores y e-liquids** con un enfoque **Apple-like en experiencia visual**.  
-- **Stack**: React + TailwindCSS + WooCommerce  
-- **Objetivo**: Escalar como startup rentable para financiar proyectos de innovación.  
+Soy estudiante de Ingeniería Informática y me estoy formando como desarrollador Full Stack & Backend, con un enfoque cada vez más marcado hacia producto, datos e inteligencia artificial aplicada.
 
----
+Me interesa construir sistemas que no solo funcionen técnicamente, sino que también tengan sentido para el negocio, resuelvan problemas reales y puedan escalar con una base sólida. Mi perfil combina desarrollo de software, pensamiento analítico, visión de producto y aprendizaje constante en áreas como Big Data, Machine Learning y arquitectura de sistemas.
 
-### ➜ [LuxFurty](https://github.com/ToroFelipe17) *(fase prototipo)*  
-Plataforma digital basada en **3D, IA y procesamiento de imágenes**.  
-- **Enfoque**: Construcción de avatares, interacción en entornos digitales y escalabilidad cloud.  
-- **Visión**: Proyecto global con ambición de disrupción tecnológica.  
+Actualmente estoy fortaleciendo mi stack técnico con React, TypeScript, Python, Supabase, SQL y herramientas modernas de desarrollo, mientras desarrollo proyectos propios y académicos orientados a software real, documentación técnica y mejora continua.
 
 ---
 
-### ➜ [Gestión de Recursos UAutónoma](https://github.com/ToroFelipe17/gestion-recursos)  
-Aplicación web para **administración de usuarios y recursos** en contextos educativos.  
-- CRUD completo, autenticación, reportes (PDF/CSV).  
-- Validaciones regionales (RUT, CLP).  
-- Testing QA aplicado.  
+## Enfoque actual
+
+- Desarrollo Full Stack con foco en aplicaciones web modernas.
+- Backend, bases de datos y lógica de negocio.
+- Producto, datos e IA aplicada como dirección profesional.
+- Machine Learning y Big Data como áreas de especialización en desarrollo.
+- Documentación técnica, testing y buenas prácticas de ingeniería.
+- Construcción de proyectos reales con visión escalable.
 
 ---
 
-### ➜ [Gestión-S12](https://github.com/ToroFelipe17/gestion-s12)
-Aplicación front-end de **gestión de tareas** (Evaluación S12) construida con **Angular 20**, **TypeScript** y **CSS3**, con **persistencia en localStorage**.
+## Formación
 
-- **Stack**: Angular 20 (CLI), TypeScript, CSS3, localStorage API  
-- **Arquitectura**: componentes modulares (`AddTaskComponent`, `TasksListComponent`) + `task.service.ts` para la lógica y persistencia  
-- **Funcionalidad**: alta/listado/eliminación de tareas, datos que persisten tras recargar  
-- **Docs**: evidencias y capturas en `/docs`  
+**Ingeniería Informática**  
+Universidad Autónoma de Chile
 
----
+Actualmente me encuentro avanzando en mi formación profesional, integrando desarrollo de software, bases de datos, arquitectura, ciberseguridad, Big Data, Machine Learning e IoT.
 
-### ➜ [Biblioteca_IngUA](https://github.com/ToroFelipe17/biblioteca_ingua)  
-Sistema CRUD para la **gestión de libros**.  
-- PHP + MySQL + Bootstrap.  
-- Base para prácticas de testing y QA.  
+Mi objetivo no es quedarme pegado a una sola tecnología o ramo, sino construir una base sólida para conectar software, datos, producto e inteligencia artificial aplicada en soluciones reales.
 
 ---
 
-## 📊 Estadísticas  
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToroFelipe17&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToroFelipe17&layout=compact&theme=radical)
+## Tech Stack
+
+### Lenguajes principales
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### Backend, bases de datos y BaaS
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
+
+### Datos, Machine Learning e IA aplicada
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/KNIME-FDD800?style=for-the-badge&logo=knime&logoColor=black" alt="KNIME" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Big%20Data-111827?style=for-the-badge" alt="Big Data" />
+</p>
+
+### Cloud, DevOps y herramientas
+
+<p>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
 
 ---
 
-## 🎓 Educación  
-- Ingeniería Informática – **Universidad Autónoma de Chile** (2023 - actualidad)  
-- Ingeniería Civil en Obras Civiles – **UTEM** (2020 - 2022)  
+## Proyectos destacados
+
+### KUTT OPS
+
+Sistema web orientado a la gestión operativa de barberías, enfocado en agenda, caja, cobros, configuración del negocio y flujo administrativo.
+
+Proyecto desarrollado con una visión de producto real, priorizando simplicidad, escalabilidad y adaptación al funcionamiento del negocio.
+
+**Stack principal:** React, TypeScript, Supabase, Tailwind, TanStack Start, Cloudflare.
+
+**Áreas trabajadas:**
+
+- Autenticación y control de acceso.
+- Gestión de agenda y operaciones internas.
+- Flujo de caja, pagos y propinas.
+- Configuración de horarios y preferencias del negocio.
+- Documentación técnica y roadmap de producto.
+- Seguridad mediante políticas y buenas prácticas en Supabase.
+
+**Repositorio:** [kutt-ops-mvp](https://github.com/ToroFelipe17/kutt-ops-mvp)
 
 ---
 
-## ⚡ Actualmente  
-- Construyendo **InfinityClouds** como primera startup.  
-- Desarrollando **LuxFurty** como proyecto visionario.  
-- Explorando **AI & Machine Learning con Azure y Python**.  
+### Data & AI Lab
+
+Repositorio en construcción para documentar mi avance práctico en Python, análisis de datos, Machine Learning y Big Data.
+
+Este espacio estará orientado a dejar evidencia real de aprendizaje aplicado, experimentos, notebooks, modelos y casos de análisis.
+
+**Objetivo del repositorio:**
+
+- Documentar proyectos de Python aplicados a datos.
+- Trabajar limpieza, análisis y visualización de datasets.
+- Implementar modelos de Machine Learning.
+- Registrar métricas, resultados y aprendizajes.
+- Consolidar una base técnica pública en datos e IA aplicada.
+
+**Estado:** En planificación.
 
 ---
+
+### Biblioteca_IngUA
+
+Proyecto académico desarrollado en Python con enfoque en buenas prácticas de ingeniería de software, testing y principios de diseño.
+
+**Áreas trabajadas:**
+
+- Programación orientada a objetos.
+- Principios SOLID.
+- Testing con PyTest.
+- Control de calidad con SonarCloud.
+- Flujo de trabajo con Git y GitHub.
+
+**Repositorio:** [Biblioteca_IngUA](https://github.com/ToroFelipe17/Biblioteca_IngUA)
+
+---
+
+### Gestión-S12
+
+Proyecto académico desarrollado con Angular y TypeScript, orientado a la construcción de interfaces, componentes, servicios y manejo de datos en frontend.
+
+**Áreas trabajadas:**
+
+- Desarrollo frontend.
+- Componentización.
+- Manejo de servicios.
+- Estructura de proyecto Angular.
+- Persistencia local y lógica de aplicación.
+
+**Repositorio:** [gestion-s12](https://github.com/ToroFelipe17/gestion-s12)
+
+---
+
+### Gestión de Recursos
+
+Sistema web académico orientado a la gestión de recursos mediante aplicación CRUD, base de datos y lógica administrativa.
+
+**Áreas trabajadas:**
+
+- Desarrollo web.
+- Conexión con base de datos.
+- Gestión de registros.
+- Validaciones y estructura de sistema.
+- Documentación funcional.
+
+---
+
+## Roadmap profesional
+
+Actualmente estoy enfocando mi desarrollo en tres líneas principales:
+
+1. Consolidar una base fuerte en desarrollo Full Stack y Backend.
+2. Profundizar en Python, análisis de datos, Machine Learning y Big Data.
+3. Construir productos digitales con visión técnica, de negocio y escalabilidad.
+
+Mi objetivo es avanzar hacia roles donde pueda conectar software, datos, IA aplicada y pensamiento de producto para crear soluciones digitales útiles, bien diseñadas y sostenibles.
+
+---
+
+## Actualmente trabajando en
+
+- Mejora y evolución de KUTT OPS.
+- Documentación de proyectos técnicos y académicos.
+- Consolidación de Python aplicado a datos.
+- Preparación de perfil profesional para práctica y primeros roles tech.
+- Integración de software, datos e IA aplicada en proyectos reales.
+
+---
+
+## Actividad en GitHub
+
+Las estadísticas reflejan principalmente actividad pública en GitHub. No representan todo mi aprendizaje técnico, especialmente en áreas que estoy comenzando a documentar de forma más estructurada, como Python, datos y Machine Learning.
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ToroFelipe17&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToroFelipe17&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## Contacto
+
+<p>
+  <a href="mailto:felipetorobustamante@gmail.com">
+    <img src="https://img.shields.io/badge/Email-felipetorobustamante%40gmail.com-555?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/felipe-israel-toro-bustamante-236b95358/">
+    <img src="https://img.shields.io/badge/LinkedIn-Felipe%20Toro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/ToroFelipe17">
+    <img src="https://img.shields.io/badge/GitHub-ToroFelipe17-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
