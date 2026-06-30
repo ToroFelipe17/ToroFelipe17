@@ -260,9 +260,27 @@ Estoy comenzando a documentar de forma más consistente mi trabajo en Python, da
 <h2 align="center">Conectemos</h2>
 
 <p align="center">
-  <a href="mailto:felipetorobustamante@gmail.com">Email</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/felipe-israel-toro-bustamante-236b95358/">LinkedIn</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://github.com/ToroFelipe17">GitHub</a>
-</p>
+
+  <a href="mailto:felipetorobustamante@gmail.com">
+
+    <img src="https://img.shields.io/badge/Email-felipetorobustamante%40gmail.com-555?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+
+  </a>
+
+  &nbsp;
+
+  <a href="https://www.linkedin.com/in/felipe-israel-toro-bustamante-236b95358/">
+
+    <img src="https://img.shields.io/badge/LinkedIn-Felipe%20Toro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+
+  </a>
+
+  &nbsp;
+
+  <a href="https://github.com/ToroFelipe17">
+
+    <img src="https://img.shields.io/badge/GitHub-ToroFelipe17-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+  </a>
+
+</p
