@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+%26+Backend+Developer+en+formaci%C3%B3n;Producto%2C+Datos+e+IA+aplicada;Construyendo+software+con+visi%C3%B3n+t%C3%A9cnica+y+de+negocio" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=FF3131&center=true&vCenter=true&width=900&lines=Full+Stack+%26+Backend+Developer+en+formaci%C3%B3n;Producto%2C+Datos+e+IA+aplicada;Construyendo+software+con+visi%C3%B3n+t%C3%A9cnica+y+de+negocio" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Felipe Toro</h1>
@@ -230,11 +230,11 @@ Mi objetivo es avanzar hacia roles donde pueda conectar software, datos, IA apli
 Las estadísticas reflejan principalmente actividad pública en GitHub. No representan todo mi aprendizaje técnico, especialmente en áreas que estoy comenzando a documentar de forma más estructurada, como Python, datos y Machine Learning.
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ToroFelipe17&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ToroFelipe17&show_icons=true&hide_border=true&theme=transparent&title_color=FF3131&icon_color=FF3131&text_color=C9D1D9&rank_icon=github&include_all_commits=true&custom_title=Felipe%20Toro%20GitHub%20Stats" alt="Felipe Toro GitHub Stats" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToroFelipe17&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToroFelipe17&layout=compact&hide_border=true&theme=transparent&title_color=FF3131&text_color=C9D1D9&langs_count=8&custom_title=Lenguajes%20m%C3%A1s%20usados%20en%20repositorios%20p%C3%BAblicos" alt="Lenguajes más usados en repositorios públicos" />
 </p>
 
 ---
