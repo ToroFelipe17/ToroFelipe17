@@ -6,17 +6,21 @@
 
 <p align="center">
 
-  📍 Padre Hurtado, Santiago, Chile &nbsp;&nbsp;•&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/📍%20Padre%20Hurtado,%20Santiago,%20Chile-20232A?style=for-the-badge"/>
 
-  <a href="mailto:felipetorobustamante@gmail.com">Email</a>
+<br><br>
 
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="mailto:felipetorobustamante@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-  <a href="https://www.linkedin.com/in/felipe-israel-toro-bustamante-236b95358/">LinkedIn</a>
+<a href="https://linkedin...">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-
-  <a href="https://github.com/ToroFelipe17">GitHub</a>
+<a href="https://github...">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </p>
 
