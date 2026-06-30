@@ -267,15 +267,11 @@ Estoy comenzando a documentar de forma más consistente mi trabajo en Python, da
 
   </a>
 
-  &nbsp;
-
   <a href="https://www.linkedin.com/in/felipe-israel-toro-bustamante-236b95358/">
 
     <img src="https://img.shields.io/badge/LinkedIn-Felipe%20Toro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 
   </a>
-
-  &nbsp;
 
   <a href="https://github.com/ToroFelipe17">
 
@@ -283,4 +279,4 @@ Estoy comenzando a documentar de forma más consistente mi trabajo en Python, da
 
   </a>
 
-</p
+</p>
