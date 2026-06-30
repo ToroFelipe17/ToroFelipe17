@@ -5,24 +5,22 @@
 <h1 align="center">Felipe Toro</h1>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/📍%20Padre%20Hurtado,%20Santiago,%20Chile-20232A?style=for-the-badge"/>
-<br><br>
-<a href="mailto:felipetorobustamante@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin...">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github...">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
+  <img src="https://img.shields.io/badge/📍%20Padre%20Hurtado%2C%20Santiago%2C%20Chile-20232A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ubicación" />
+  <br><br>
+  <a href="mailto:felipetorobustamante@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/felipe-israel-toro-bustamante-236b95358/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/ToroFelipe17">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
+
+<br>
 
 ## Sobre mí
 
@@ -33,6 +31,8 @@ Me interesa construir sistemas que no solo funcionen técnicamente, sino que tam
 Actualmente estoy fortaleciendo mi stack técnico con React, TypeScript, Python, Supabase, SQL y herramientas modernas de desarrollo. Mi foco está en construir proyectos propios y académicos que tengan estructura, documentación y sentido real, no solo código funcionando.
 
 ---
+
+<br>
 
 ## Enfoque actual
 
@@ -45,6 +45,8 @@ Actualmente estoy fortaleciendo mi stack técnico con React, TypeScript, Python,
 
 ---
 
+<br>
+
 ## Formación
 
 **Ingeniería Informática**  
@@ -55,6 +57,8 @@ Actualmente me encuentro avanzando en mi formación profesional, integrando desa
 Mi objetivo no es quedarme pegado a una sola tecnología o ramo, sino construir una base sólida para conectar software, datos, producto e inteligencia artificial aplicada en soluciones reales.
 
 ---
+
+<br>
 
 ## Tech Stack
 
@@ -114,6 +118,8 @@ Mi objetivo no es quedarme pegado a una sola tecnología o ramo, sino construir 
 </p>
 
 ---
+
+<br>
 
 ## Proyectos destacados
 
@@ -202,6 +208,8 @@ Sistema web académico orientado a la gestión de recursos mediante aplicación 
 
 ---
 
+<br>
+
 ## Roadmap profesional
 
 Actualmente estoy enfocando mi desarrollo en tres líneas principales:
@@ -214,6 +222,8 @@ Mi objetivo es avanzar hacia roles donde pueda conectar software, datos, IA apli
 
 ---
 
+<br>
+
 ## Actualmente trabajando en
 
 - Mejora y evolución de KUTT OPS.
@@ -223,6 +233,8 @@ Mi objetivo es avanzar hacia roles donde pueda conectar software, datos, IA apli
 - Integración de software, datos e IA aplicada en proyectos reales.
 
 ---
+
+<br>
 
 ## Actividad en GitHub
 
@@ -257,26 +269,44 @@ Estoy comenzando a documentar de forma más consistente mi trabajo en Python, da
 
 ---
 
+<br>
+
 <h2 align="center">Conectemos</h2>
 
 <p align="center">
+  <strong>Software · Producto · Datos · IA aplicada</strong>
+  <br>
+  <sub>Abierto a conversar sobre proyectos, oportunidades y construcción de soluciones digitales con sentido real.</sub>
+</p>
 
-  <a href="mailto:felipetorobustamante@gmail.com">
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="mailto:felipetorobustamante@gmail.com">
+        <strong>Email</strong>
+      </a>
+      <br>
+      <sub>Contacto directo</sub>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/felipe-israel-toro-bustamante-236b95358/">
+        <strong>LinkedIn</strong>
+      </a>
+      <br>
+      <sub>Perfil profesional</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ToroFelipe17">
+        <strong>GitHub</strong>
+      </a>
+      <br>
+      <sub>Repositorios y proyectos</sub>
+    </td>
+  </tr>
+</table>
 
-    <img src="https://img.shields.io/badge/Email-felipetorobustamante%40gmail.com-555?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<br>
 
-  </a>
-
-  <a href="https://www.linkedin.com/in/felipe-israel-toro-bustamante-236b95358/">
-
-    <img src="https://img.shields.io/badge/LinkedIn-Felipe%20Toro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-
-  </a>
-
-  <a href="https://github.com/ToroFelipe17">
-
-    <img src="https://img.shields.io/badge/GitHub-ToroFelipe17-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-
-  </a>
-
+<p align="center">
+  <sub>Still building.</sub>
 </p>
