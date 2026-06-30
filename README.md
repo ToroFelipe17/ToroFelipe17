@@ -5,18 +5,19 @@
 <h1 align="center">Felipe Toro</h1>
 
 <p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Padre%20Hurtado%2C%20Santiago%20de%20Chile-555?style=flat&logo=google-maps&logoColor=white" alt="Ubicación" />
-  </a>
-  <a href="mailto:felipetorobustamante@gmail.com">
-    <img src="https://img.shields.io/badge/Email-felipetorobustamante%40gmail.com-555?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/felipe-israel-toro-bustamante-236b95358/">
-    <img src="https://img.shields.io/badge/LinkedIn-Felipe%20Toro-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/ToroFelipe17">
-    <img src="https://img.shields.io/badge/GitHub-ToroFelipe17-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+
+  📍 Padre Hurtado, Santiago, Chile &nbsp;&nbsp;•&nbsp;&nbsp;
+
+  <a href="mailto:felipetorobustamante@gmail.com">Email</a>
+
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/felipe-israel-toro-bustamante-236b95358/">LinkedIn</a>
+
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+
+  <a href="https://github.com/ToroFelipe17">GitHub</a>
+
 </p>
 
 ---
@@ -257,13 +258,9 @@ Estoy comenzando a documentar de forma más consistente mi trabajo en Python, da
 <h2 align="center">Conectemos</h2>
 
 <p align="center">
-  <a href="mailto:felipetorobustamante@gmail.com">
-    <img src="https://img.shields.io/badge/Email-felipetorobustamante%40gmail.com-555?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/felipe-israel-toro-bustamante-236b95358/">
-    <img src="https://img.shields.io/badge/LinkedIn-Felipe%20Toro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/ToroFelipe17">
-    <img src="https://img.shields.io/badge/GitHub-ToroFelipe17-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="mailto:felipetorobustamante@gmail.com">Email</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/felipe-israel-toro-bustamante-236b95358/">LinkedIn</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/ToroFelipe17">GitHub</a>
 </p>
