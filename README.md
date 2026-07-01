@@ -5,16 +5,16 @@
 <h1 align="center">Felipe Toro</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Padre%20Hurtado%2C%20Santiago%2C%20Chile-20232A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ubicación" />
+  <img src="https://img.shields.io/badge/Padre%20Hurtado%2C%20Santiago%2C%20Chile-111827?style=for-the-badge&logo=googlemaps&logoColor=FF3131" alt="Ubicación" />
   <br><br>
   <a href="mailto:felipetorobustamante@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/felipe-israel-toro-bustamante-236b95358/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
   <a href="https://github.com/ToroFelipe17">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -207,9 +207,9 @@ Proyecto académico desarrollado con Angular y TypeScript, orientado a la constr
 ## Actividad en GitHub
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Estado-STILL%20BUILDING-FF3131?style=for-the-badge&logo=github&logoColor=white" alt="Still Building" />
-  <img src="https://img.shields.io/badge/Foco-Software%20%2B%20Datos%20%2B%20IA-111827?style=for-the-badge" alt="Software Datos IA" />
-  <img src="https://img.shields.io/badge/Perfil-En%20evoluci%C3%B3n-555?style=for-the-badge" alt="Perfil en evolución" />
+  <img src="https://img.shields.io/badge/Estado-STILL%20BUILDING-111827?style=for-the-badge&logo=github&logoColor=FF3131" alt="Still Building" />
+  <img src="https://img.shields.io/badge/Foco-Software%20%2B%20Datos%20%2B%20IA-111827?style=for-the-badge&logo=target&logoColor=FF3131" alt="Software Datos IA" />
+  <img src="https://img.shields.io/badge/Perfil-En%20evoluci%C3%B3n-111827?style=for-the-badge&logo=rocket&logoColor=FF3131" alt="Perfil en evolución" />
 </p>
 
 Mi GitHub está en proceso de evolución: actualmente lo estoy ordenando como una vitrina técnica real, priorizando proyectos con documentación, estructura y propósito claro.
