@@ -23,7 +23,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6d695afe-50ac-4e3f-8bf4-53a8ad1e981d" alt="Building products with purpose" width="100%">
+  <img src="https://github.com/user-attachments/assets/6d695afe-50ac-4e3f-8bf4-53a8ad1e981d">
 </p>
 
 <br>
