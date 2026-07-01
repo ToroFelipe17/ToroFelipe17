@@ -22,6 +22,12 @@
 
 <br>
 
+<p align="center">
+  <img src="./github-hero.svg" alt="Building products with purpose" width="100%">
+</p>
+
+<br>
+
 ## Actualmente construyendo
 
 <table>
