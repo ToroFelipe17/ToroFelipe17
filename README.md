@@ -66,7 +66,7 @@
 
 <br>
 
-## Proyectos destacados
+## Proyectos...
 
 ### KUTT OPS
 
@@ -99,7 +99,7 @@ Este repositorio busca ordenar lo que estoy aprendiendo y construyendo en torno 
 - Trabajar limpieza, análisis y visualización de datasets.
 - Implementar modelos de Machine Learning.
 - Registrar métricas, resultados y aprendizajes.
-- Consolidar una base técnica pública en datos e IA aplicada.[
+- Consolidar una base técnica pública en datos e IA aplicada.
 
 **Repositorio:** [data-ai-lab](https://github.com/ToroFelipe17/data-ai-lab)
 
