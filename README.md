@@ -44,6 +44,7 @@
         <a href="https://github.com/ToroFelipe17/kutt-ops-mvp">Ver repositorio</a>
       </p>
     </td>
+  </tr>
     <td width="50%">
       <h3>Data & AI Lab</h3>
       <p>
