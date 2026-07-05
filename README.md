@@ -71,7 +71,7 @@
 
 ### KUTT OPS
 
-KUTT OPS es el proyecto principal que estoy desarrollando actualmente. Nace desde una idea simple: el software debe adaptarse al negocio, no obligar al negocio a adaptarse al software.
+Es el proyecto principal que estoy desarrollando actualmente. Nace desde una idea simple: el software debe adaptarse al negocio, no obligar al negocio a adaptarse al software.
 
 El sistema está orientado a la gestión de barberías, integrando agenda, caja, pagos, propinas, configuración de horarios, clientes y flujo administrativo.
 
