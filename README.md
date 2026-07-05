@@ -56,7 +56,7 @@
         <strong>Foco:</strong> notebooks, análisis exploratorio, limpieza de datos, modelos, métricas y documentación técnica.
       </p>
       <p>
-        <em>Próximamente público.</em>
+        <a href="https://github.com/ToroFelipe17/data-ai-lab">Ver repositorio</a>
       </p>
     </td>
   </tr>
@@ -99,41 +99,9 @@ Este repositorio busca ordenar lo que estoy aprendiendo y construyendo en torno 
 - Trabajar limpieza, análisis y visualización de datasets.
 - Implementar modelos de Machine Learning.
 - Registrar métricas, resultados y aprendizajes.
-- Consolidar una base técnica pública en datos e IA aplicada.
+- Consolidar una base técnica pública en datos e IA aplicada.[
 
-**Estado:** Desarrollo activo.
-
----
-
-### Biblioteca_IngUA
-
-Proyecto académico desarrollado en Python con enfoque en buenas prácticas de ingeniería de software, testing y principios de diseño.
-
-**Áreas trabajadas:**
-
-- Programación orientada a objetos.
-- Principios SOLID.
-- Testing con PyTest.
-- Control de calidad con SonarCloud.
-- Flujo de trabajo con Git y GitHub.
-
-**Repositorio:** [Biblioteca_IngUA](https://github.com/ToroFelipe17/Biblioteca_IngUA)
-
----
-
-### Gestión-S12
-
-Proyecto académico desarrollado con Angular y TypeScript, orientado a la construcción de interfaces, componentes, servicios y manejo de datos en frontend.
-
-**Áreas trabajadas:**
-
-- Desarrollo frontend.
-- Componentización.
-- Manejo de servicios.
-- Estructura de proyecto Angular.
-- Persistencia local y lógica de aplicación.
-
-**Repositorio:** [gestion-s12](https://github.com/ToroFelipe17/gestion-s12)
+**Repositorio:** [data-ai-lab](https://github.com/ToroFelipe17/data-ai-lab)
 
 ---
 
