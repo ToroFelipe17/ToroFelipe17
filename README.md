@@ -66,7 +66,7 @@
 
 <br>
 
-## Proyectos...
+## Más información 
 
 ### KUTT OPS
 
