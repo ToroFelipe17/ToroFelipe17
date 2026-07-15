@@ -52,7 +52,7 @@
         <strong>Foco:</strong> notebooks, análisis exploratorio, limpieza de datos, modelos, métricas y documentación técnica.
       </p>
       <p>
-        <a href="https://github.com/ToroFelipe17/data-ai-lab">Ver repositorio</a>
+        <a href="https://github.com/ToroFelipe17/data-ai-lab">Ver Data AI Lab</a>
       </p>
     </td>
   </tr>
@@ -88,7 +88,7 @@ Este repositorio busca ordenar lo que estoy aprendiendo y construyendo en torno 
 - Registrar métricas, resultados y aprendizajes.
 - Consolidar una base técnica pública en datos e IA aplicada.
 
-**Repositorio:** [data-ai-lab](https://github.com/ToroFelipe17/data-ai-lab)
+**Repositorio:** [Data AI Lab](https://github.com/ToroFelipe17/data-ai-lab)
 
 ---
 
