@@ -35,10 +35,8 @@
         <strong>Estado:</strong> Desarrollo activo
       </p>
       <p>
-        <strong>Stack:</strong> React, TypeScript, Supabase, Tailwind, TanStack Start, Cloudflare.
-      </p>
       <p>
-        <a href="https://github.com/ToroFelipe17/kutt-ops-mvp">Ver repositorio</a>
+        <a href="https://github.com/ToroFelipe17/kutt-ops">Conocer KUTT OPS</a>
       </p>
     </td>
   </tr>
@@ -68,22 +66,13 @@
 
 ### KUTT OPS
 
-Es el proyecto principal que estoy desarrollando actualmente. Nace desde una idea simple: el software debe adaptarse al negocio, no obligar al negocio a adaptarse al software.
+Es el proyecto principal que estoy desarrollando actualmente. KUTT OPS es una plataforma web para ordenar la operación diaria de una barbería, con una gestión clara y adaptable a la realidad del negocio.
 
-El sistema está orientado a la gestión de barberías, integrando agenda, caja, pagos, propinas, configuración de horarios, clientes y flujo administrativo.
+Nace desde una idea simple: el software debe adaptarse al negocio, no obligar al negocio a adaptarse al software.
 
-**Áreas trabajadas:**
+**Estado:** Desarrollo activo
 
-- Diseño de producto y lógica de negocio.
-- Desarrollo Full Stack con React, TypeScript y Supabase.
-- Gestión de caja, cobros, propinas e ingresos/egresos.
-- Configuración operativa del negocio.
-- Seguridad mediante políticas y buenas prácticas en Supabase.
-- Documentación técnica y evolución por fases.
-
-**Repositorio:** [kutt-ops-mvp](https://github.com/ToroFelipe17/kutt-ops-mvp)
-
----
+**Repositorio:** [KUTT OPS](https://github.com/ToroFelipe17/kutt-ops)
 
 ### Data & AI Lab
 
