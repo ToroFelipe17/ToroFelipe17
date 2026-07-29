@@ -17,7 +17,10 @@
 
 ---
 <p align="center">
-  <img src="https://github.com/ToroFelipe17/tp/issues/2">
+  <img
+    src="https://github.com/user-attachments/assets/9a3f62f0-0164-4f1e-ad7a-86bb1c953ff4"
+    alt="Hero"
+  >
 </p>
 
 <br>
