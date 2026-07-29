@@ -65,7 +65,7 @@
 
 <br>
 
-## Herramientas con las que construyo
+## Herramientas
 
 ### Software
 
