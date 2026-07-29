@@ -65,38 +65,6 @@
 
 <br>
 
-## Más información 
-
-### KUTT OPS
-
-Es el proyecto principal que estoy desarrollando actualmente. KUTT OPS es una plataforma web para ordenar la operación diaria de una barbería, con una gestión clara y adaptable a la realidad del negocio.
-
-Nace desde una idea simple: el software debe adaptarse al negocio, no obligar al negocio a adaptarse al software.
-
-**Estado:** Desarrollo activo
-
-**Repositorio:** [KUTT OPS](https://github.com/ToroFelipe17/kutt-ops)
-
-### Data & AI Lab
-
-Espacio dedicado a documentar mi evolución práctica en Python, datos, Machine Learning y Big Data.
-
-Este repositorio busca ordenar lo que estoy aprendiendo y construyendo en torno a datos, dejando evidencia pública de análisis, modelos, experimentos y conclusiones técnicas.
-
-**Objetivo del repositorio:**
-
-- Documentar proyectos de Python aplicados a datos.
-- Trabajar limpieza, análisis y visualización de datasets.
-- Implementar modelos de Machine Learning.
-- Registrar métricas, resultados y aprendizajes.
-- Consolidar una base técnica pública en datos e IA aplicada.
-
-**Repositorio:** [Data AI Lab](https://github.com/ToroFelipe17/data-ai-lab)
-
----
-
-<br>
-
 ## Herramientas con las que construyo
 
 ### Software
@@ -154,47 +122,11 @@ Este repositorio busca ordenar lo que estoy aprendiendo y construyendo en torno 
 
 <br>
 
-## Lo que viene
-
-- Evolucionar KUTT como producto real.
-- Consolidar Data & AI Lab con proyectos públicos en Python, datos y Machine Learning.
-- Publicar más documentación técnica sobre decisiones, avances y aprendizajes.
-- Seguir construyendo software con visión de producto, datos e IA aplicada.
-
----
-
-<br>
-
-## Actividad en GitHub
-
 <p align="center">
   <img src="https://img.shields.io/badge/Estado-STILL%20BUILDING-111827?style=for-the-badge&logo=github&logoColor=FF3131" alt="Still Building" />
   <img src="https://img.shields.io/badge/Foco-Software%20%2B%20Datos%20%2B%20IA-111827?style=for-the-badge&logo=target&logoColor=FF3131" alt="Software Datos IA" />
   <img src="https://img.shields.io/badge/Perfil-En%20evoluci%C3%B3n-111827?style=for-the-badge&logo=rocket&logoColor=FF3131" alt="Perfil en evolución" />
 </p>
-
-Mi GitHub está en proceso de evolución: actualmente lo estoy ordenando como una vitrina técnica real, priorizando proyectos con documentación, estructura y propósito claro.
-
-Estoy comenzando a documentar de forma más consistente mi trabajo en Python, datos y Machine Learning, ya que parte importante de mi aprendizaje ha ocurrido fuera de repositorios públicos.
-
-<table>
-  <tr>
-    <td><strong>Foco actual</strong></td>
-    <td>Full Stack, Backend, producto, datos e IA aplicada.</td>
-  </tr>
-  <tr>
-    <td><strong>Proyecto principal</strong></td>
-    <td>KUTT OPS como sistema real orientado a gestión, operación y producto.</td>
-  </tr>
-  <tr>
-    <td><strong>Próximo paso</strong></td>
-    <td>Consolidar Data & AI Lab como repositorio público de Python, análisis de datos, Machine Learning y Big Data.</td>
-  </tr>
-  <tr>
-    <td><strong>Objetivo</strong></td>
-    <td>Construir una base pública más sólida, ordenada y alineada a mi dirección profesional.</td>
-  </tr>
-</table>
 
 ---
 
@@ -206,21 +138,6 @@ Soy estudiante de Ingeniería Informática y me estoy formando como desarrollado
 
 Me interesa construir sistemas que no solo funcionen técnicamente, sino que también tengan sentido para el negocio, resuelvan problemas reales y puedan escalar con una base sólida.
 
-Actualmente mi foco está en desarrollar proyectos propios y académicos que tengan estructura, documentación y sentido real, no solo código funcionando.
-
----
-
-<br>
-
-## Formación
-
-**Ingeniería Informática**  
-Universidad Autónoma de Chile
-
-Actualmente me encuentro avanzando en mi formación profesional, integrando desarrollo de software, bases de datos, arquitectura, ciberseguridad, Big Data, Machine Learning e IoT.
-
-Mi objetivo es construir una base sólida para conectar software, datos, producto e inteligencia artificial aplicada en soluciones reales.
-
 ---
 
 <br>
@@ -230,7 +147,7 @@ Mi objetivo es construir una base sólida para conectar software, datos, product
 <p align="center">
   <strong>Software · Producto · Datos · IA aplicada</strong>
   <br>
-  <sub>Abierto a conversar sobre proyectos, oportunidades y construcción de soluciones digitales con sentido real.</sub>
+  <sub>Abierto a conversar sobre proyectos, oportunidades y construcción de soluciones digitales.</sub>
 </p>
 
 <table align="center">
